@@ -1,0 +1,25 @@
+img {
+    margin: 15px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-right: 5px;
+    margin-left: 2px;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+input {
+    margin-right: 5px;
+}
